@@ -20,7 +20,11 @@ c. [Washington](https://fki.tic.heia-fr.ch/databases/washington-database)
 
 d. [Saintgall](https://fki.tic.heia-fr.ch/databases/saint-gall-database)
 
-Note : Since datasets size are large, you may need to convert **HDF5** format to all datasets for faster computation and working with **GoobleColab**. 
+Note : 
+
+All the above datasets are published under open License. Bentham Dataset was published under Open License CC BY 4.0 published by Sanchez, Joan Andreu. IAM Dataset, Washington Dataset and Saint gall dataset are publicly accessible and freely available for non-commercial research purpose and published in fki Computer Vision and Artificial Intelligence website.  As such, there are no ethical, legal, or professional restrictions on these. 
+
+Since datasets size are large, you may need to convert **HDF5** format to all datasets for faster computation and working with **GoobleColab**. 
 
 The datasets converted to **HDF5** format can be download from [here](https://drive.google.com/drive/folders/1wirQDjC5or55pN--sQ4Kb26PM5yLe4GJ?usp=share_link)
 
